@@ -2,7 +2,7 @@
 
 :rocket: Please follow below steps to set up a new camplaign :rocket:
 
-### Step 1: Copy the markdown text from `template/template.md`.
+### Step 1: Copy the markdown text from ```template/template.md```.
 
 ### Step 2: Create a new MD file under the campaigns folder, and then name the file as what campaign you want.
 
