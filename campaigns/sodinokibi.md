@@ -48,7 +48,7 @@ Click on the <i class="fa fa-share-alt"></i> ***Sharing*** menu and invite your 
 
 | Features          | Tutorials               |
 | ----------------- |:----------------------- |
-| GitHub Sync         | [:link:][GitHub-Sync]   |
+| GitHub Sync         | ![](https://joshuatai.github.io/markdown-test/images/a.png)   |
 | Browser Extension | [:link:][HackMD-it]     |
 | Book Mode         | [:link:][Book-mode]     |
 | Slide Mode        | [:link:][Slide-mode]    | 
