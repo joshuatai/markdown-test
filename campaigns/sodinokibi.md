@@ -29,7 +29,7 @@
 :::info
 :bulb: **Hint:** You can also apply styling from the toolbar at the top :arrow_upper_left: of the editing area.
 
-![](https://i.imgur.com/Cnle9f9.png)
+![](https://joshuatai.github.io/markdown-test/images/a.png)
 :::
 
 
