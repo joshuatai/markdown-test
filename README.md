@@ -9,6 +9,6 @@
 ### Step 3: Paste markdown text at the Editor area...
 
 
-:::info
+```
 :bulb: **Hint:** You can also apply styling from the toolbar at the top :arrow_upper_left: of the editing area
 ```
