@@ -4,7 +4,7 @@
 
 ### Step 1: Copy the markdown text from.
 
-######template/template.md
+##### template/template.md
 
 ### Step 2: Create a new MD file under the campaigns folder, and then name the file as what campaign you want.
 
